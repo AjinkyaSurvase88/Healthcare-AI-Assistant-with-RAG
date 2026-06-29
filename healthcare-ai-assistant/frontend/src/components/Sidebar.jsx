@@ -4,7 +4,7 @@ import { clsx } from 'clsx';
 import { useEffect, useState } from 'react';
 import { checkHealth } from '../services/api';
 
-export default function Sidebar() {
+export default function Sidebar({ onClose }) {
   const location = useLocation();
   const [health, setHealth] = useState({ llm: false, db: false });
 
@@ -35,6 +35,7 @@ export default function Sidebar() {
           <Link
             key={item.name}
             to={item.path}
+            onClick={onClose}
             className={clsx(
               'flex items-center gap-3 px-4 py-3 rounded-lg transition-colors',
               location.pathname === item.path
