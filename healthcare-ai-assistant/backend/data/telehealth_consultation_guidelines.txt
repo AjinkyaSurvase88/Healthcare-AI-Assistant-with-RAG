@@ -1,0 +1,185 @@
+TELEHEALTH CONSULTATION GUIDELINES
+Healthcare AI Assistant Knowledge Base — Synthetic Document
+Version: 3.2 | Last Updated: January 2025
+
+=============================================================
+SECTION 1: INTRODUCTION TO TELEHEALTH
+=============================================================
+
+1.1 WHAT IS TELEHEALTH?
+Telehealth (also called telemedicine or virtual care) refers to the delivery of healthcare services through digital communication technologies such as video calls, phone calls, and secure messaging. Our facility offers telehealth services as a convenient and accessible alternative to in-person visits for appropriate clinical situations.
+
+1.2 BENEFITS OF TELEHEALTH
+- Eliminates travel time and transportation barriers
+- Reduces exposure to contagious illnesses in waiting rooms
+- More flexible scheduling options including early morning and evening slots
+- Access to specialist consultations without geographic constraints
+- Convenient for routine follow-ups, chronic disease management, and medication reviews
+- Cost-effective for patients and the healthcare system
+
+1.3 TELEHEALTH PLATFORM
+- Our telehealth platform is HIPAA-compliant and end-to-end encrypted.
+- Patients receive a unique, secure video link via email or SMS 15 minutes before the appointment.
+- No software download is required — visits occur through a web browser or mobile app.
+- Audio-only (phone) consultations are available when video is not feasible.
+
+=============================================================
+SECTION 2: CONDITIONS SUITABLE FOR TELEHEALTH
+=============================================================
+
+2.1 APPROPRIATE FOR TELEHEALTH VISITS
+The following conditions and services are well-suited for telehealth consultations:
+
+PRIMARY CARE:
+- Cold, flu, COVID-19 symptoms (non-severe)
+- Allergies and sinus infections
+- Urinary tract infections (UTI) in adults without complications
+- Minor rashes and skin conditions (visible via camera)
+- Headache and migraine management
+- General wellness consultations
+- Blood pressure, diabetes, and cholesterol management (chronic condition monitoring)
+- Lab result review and interpretation
+- Mental health check-ins and therapy sessions
+- Smoking cessation counseling
+
+SPECIALIST CARE:
+- Psychiatry and behavioral health: Initial evaluation and ongoing therapy
+- Endocrinology: Diabetes and thyroid management
+- Neurology: Headache management, follow-up visits
+- Cardiology: Follow-up visits for stable cardiac conditions (not acute)
+- Dermatology: Evaluation of rashes, moles, and skin lesions via high-quality camera
+- Nutrition and dietetics counseling
+
+PREVENTIVE AND ADMINISTRATIVE:
+- Pre-operative consultations (where physical exam is not required)
+- Post-operative follow-up (wound inspection via camera)
+- Medication refill reviews (see Medication Refill Policy)
+- Annual wellness discussions and care planning
+- Patient education and self-management coaching
+
+2.2 NOT APPROPRIATE FOR TELEHEALTH — IN-PERSON REQUIRED
+The following require an in-person evaluation:
+- Suspected heart attack, stroke, or other medical emergencies (call 112)
+- Severe abdominal pain requiring physical examination
+- Injuries requiring X-ray, imaging, or physical manipulation
+- Pap smears, pelvic exams, prostate exams, or other physical examinations
+- Controlled substance prescriptions (new prescriptions for Schedule II medications)
+- Complex wound assessment requiring hands-on debridement
+- Procedures (injections, biopsies, infusions)
+- Pediatric well-child visits requiring growth and developmental assessment
+
+=============================================================
+SECTION 3: PREPARING FOR A TELEHEALTH VISIT
+=============================================================
+
+3.1 TECHNICAL REQUIREMENTS
+- Device: Smartphone, tablet, or computer (desktop or laptop)
+- Camera: Built-in or external webcam with at least 720p resolution
+- Microphone: Built-in or headset with microphone
+- Internet: Stable broadband connection (minimum 2 Mbps upload and download speed)
+- Browser: Chrome, Firefox, Safari, or Edge (latest versions recommended)
+
+3.2 BEFORE YOUR APPOINTMENT
+- Test your camera and microphone at least 10 minutes before the appointment
+- Find a quiet, well-lit, private location for your visit
+- Have a list of your current medications and dosages ready
+- Write down your symptoms, questions, and any relevant medical history
+- Ensure your insurance information is current in our patient portal
+- Have a photo ID available in case identity verification is needed
+
+3.3 DURING YOUR APPOINTMENT
+- Join the video call at least 5 minutes early
+- Speak clearly and directly toward the camera
+- Show your physician any visible symptoms (rashes, swelling, wounds) on camera
+- Take notes or ask permission to record the session for personal reference
+- A family member or caregiver may join the call with your consent
+
+3.4 AFTER YOUR APPOINTMENT
+- A visit summary will be sent to your patient portal within 24 hours
+- Prescriptions will be sent electronically to your preferred pharmacy
+- Schedule any required follow-up or in-person appointments as advised
+- Contact the office if you experience worsening symptoms after the visit
+
+=============================================================
+SECTION 4: MEDICATION REFILLS VIA TELEHEALTH
+=============================================================
+
+4.1 ELIGIBLE MEDICATIONS FOR TELEHEALTH REFILLS
+Medication refill requests may be reviewed and approved during telehealth visits for:
+- Ongoing management of chronic conditions (hypertension, diabetes, asthma, thyroid disease)
+- Non-controlled antidepressants and non-controlled anxiety medications
+- Contraceptive prescriptions (after initial evaluation)
+- Maintenance medications (cholesterol, blood pressure, GERD)
+- Antihistamines and allergy medications
+
+4.2 MEDICATIONS NOT ELIGIBLE FOR TELEHEALTH REFILLS
+- Schedule II controlled substances (opioids, stimulants) — require in-person visit
+- New prescriptions for Schedule III–V controlled substances
+- Medications requiring a physical examination to assess therapeutic response
+- Injectable or infusion biologics requiring clinical supervision
+
+4.3 REFILL AUTHORIZATION PROCESS VIA TELEHEALTH
+1. During the telehealth visit, discuss your medication with the physician.
+2. The physician will review adherence, side effects, and clinical appropriateness.
+3. If appropriate, the physician will send the electronic prescription to your pharmacy.
+4. Processing time: Prescription typically available at pharmacy within 2–4 hours.
+
+=============================================================
+SECTION 5: PRIVACY AND SECURITY IN TELEHEALTH
+=============================================================
+
+5.1 HIPAA COMPLIANCE
+Our telehealth platform is fully compliant with the Health Insurance Portability and Accountability Act (HIPAA). All sessions are:
+- End-to-end encrypted (AES-256 standard)
+- Accessible only to the patient and the authorized healthcare provider
+- Not recorded or stored without explicit patient consent
+- Conducted through platforms with a signed Business Associate Agreement (BAA)
+
+5.2 PATIENT RESPONSIBILITIES FOR PRIVACY
+- Conduct visits in a private location where others cannot overhear
+- Do not conduct telehealth visits on public Wi-Fi networks without a VPN
+- Ensure your device is password-protected and not shared with others
+- Log out of the telehealth platform immediately after your visit
+
+5.3 RECORDING POLICY
+- Healthcare providers do not record telehealth sessions without explicit written consent.
+- Patients are prohibited from recording sessions without informing and obtaining consent from the provider.
+- Violation of the no-recording policy may result in termination of the telehealth session.
+
+=============================================================
+SECTION 6: INSURANCE COVERAGE FOR TELEHEALTH
+=============================================================
+
+6.1 COVERAGE STATUS
+Telehealth coverage has expanded significantly. Most insurance plans now cover telehealth visits at the same rate as in-person visits for:
+- Primary care consultations
+- Specialist follow-ups
+- Mental health and behavioral health services
+- Chronic disease management
+
+6.2 COST SHARING
+- Copays and coinsurance for telehealth visits are typically the same as in-person visits.
+- Some plans may have a lower copay for telehealth visits.
+- Audio-only visits may be billed at a different rate than video visits — confirm with your insurer.
+
+6.3 VERIFYING TELEHEALTH COVERAGE
+Contact your insurance company before your visit to confirm:
+- Whether telehealth is covered under your plan
+- Whether the specific service you need is covered via telehealth
+- What your expected cost-share (copay, coinsurance) will be
+- Whether your specific provider is in-network for telehealth
+
+=============================================================
+SECTION 7: TECHNICAL TROUBLESHOOTING
+=============================================================
+
+Q: My camera is not working during the visit. What should I do?
+A: Try the following steps: (1) Check that the camera is not being used by another app; (2) Refresh the browser page; (3) Try a different browser; (4) Restart your device. If the issue persists, contact the telehealth support line. If camera issues cannot be resolved, the visit may be conducted via phone audio only.
+
+Q: I cannot hear the physician.
+A: Check your speaker/headphone settings, ensure the volume is not muted, and try reconnecting to the session. If problems persist, call the office directly.
+
+Q: I got disconnected during the session.
+A: Rejoin using the same secure link sent to your email or SMS. If more than 5 minutes have passed, call the office to confirm the appointment status.
+
+Note: These telehealth guidelines are synthetic and created for demonstration purposes only. They do not constitute actual medical, legal, or regulatory guidance.

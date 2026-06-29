@@ -1,9 +1,9 @@
 import os
 from typing import List, Tuple
 from langchain_community.document_loaders import PyPDFLoader, TextLoader, Docx2txtLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_chroma import Chroma
 from app.config.settings import settings
 from app.utils.logger import logger
 from app.utils.exceptions import DocumentProcessingError
@@ -58,7 +58,6 @@ def ingest_document(file_path: str, filename: str) -> int:
     
     vector_store = get_vector_store()
     vector_store.add_documents(chunks)
-    vector_store.persist()
     
     logger.info(f"Successfully ingested {filename} into ChromaDB")
     return len(chunks)

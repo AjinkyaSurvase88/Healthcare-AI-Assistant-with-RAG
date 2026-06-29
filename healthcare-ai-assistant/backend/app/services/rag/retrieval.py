@@ -1,6 +1,6 @@
-from typing import List, Tuple
-from langchain_community.llms import Ollama
-from langchain.prompts import PromptTemplate
+from typing import List
+from langchain_ollama import OllamaLLM
+from langchain_core.prompts import PromptTemplate
 from app.config.settings import settings
 from app.services.rag.ingestion import get_vector_store
 from app.models.schemas import SourceChunk, AnswerResponse
@@ -79,7 +79,7 @@ def generate_answer(question: str) -> AnswerResponse:
         input_variables=["context", "question"]
     )
     
-    llm = Ollama(
+    llm = OllamaLLM(
         base_url=settings.OLLAMA_BASE_URL,
         model=settings.LLM_MODEL,
         temperature=0.1

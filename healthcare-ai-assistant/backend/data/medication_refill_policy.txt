@@ -1,0 +1,137 @@
+MEDICATION REFILL POLICY
+Healthcare AI Assistant Knowledge Base — Synthetic Document
+Version: 2.6 | Last Updated: January 2025
+
+=============================================================
+SECTION 1: GENERAL REFILL POLICY
+=============================================================
+
+1.1 OVERVIEW
+Our facility's medication refill policy is designed to ensure safe, continuous medication management for all patients while maintaining compliance with applicable regulations. Refill requests are processed based on the type of medication, prescribing physician availability, and clinical appropriateness.
+
+1.2 STANDARD REFILL PROCESS
+- Refill requests must be submitted at least 5 business days before the medication runs out.
+- Patients can request refills via the patient portal, phone (during business hours), pharmacy transfer request, or through a telehealth visit.
+- Same-day refills are not guaranteed and are reserved for urgent situations.
+
+1.3 ELIGIBILITY FOR REFILLS
+To be eligible for a medication refill:
+- The patient must have had an appointment with the prescribing physician within the last 12 months.
+- The medication must be part of the patient's active treatment plan.
+- No outstanding lab results or monitoring requirements that have not been fulfilled.
+- No flags in the prescription drug monitoring program (PDMP).
+
+=============================================================
+SECTION 2: REFILL METHODS
+=============================================================
+
+2.1 ONLINE PATIENT PORTAL
+- Log in to the patient portal and navigate to "Medications" → "Request Refill."
+- Select the medication and preferred pharmacy.
+- Submit the request. You will receive a confirmation email.
+- Processing time: 2–3 business days.
+
+2.2 PHONE REQUEST
+- Call the pharmacy line during business hours (Monday–Friday, 8 AM–5 PM).
+- Have your medication name, dosage, date of birth, and pharmacy information ready.
+- Processing time: 2–3 business days.
+
+2.3 PHARMACY TRANSFER REQUEST
+- Your pharmacy may fax a refill request directly to the prescribing physician's office.
+- The physician or care team will review and respond within 2–3 business days.
+- Ensure your pharmacy has the correct fax number for the prescribing office.
+
+2.4 TELEHEALTH REFILL REQUESTS
+- Medication refill requests may be reviewed during telehealth visits.
+- Refills via telehealth are permitted when the medication is already prescribed and does not require an in-person physical examination or new assessment.
+- Controlled substances (Schedule II through V) cannot be refilled via telehealth in most circumstances; an in-person visit is required.
+- Telehealth refills are available for: chronic disease medications (hypertension, diabetes, thyroid), maintenance medications, contraceptives, and non-controlled mental health medications.
+
+=============================================================
+SECTION 3: CONTROLLED SUBSTANCE REFILL POLICY
+=============================================================
+
+3.1 DEFINITION
+Controlled substances are medications classified by the DEA (or equivalent authority) as having a potential for abuse or dependence. These include:
+- Schedule II: Opioids (oxycodone, hydrocodone), stimulants (Adderall, Ritalin)
+- Schedule III: Codeine combinations, anabolic steroids
+- Schedule IV: Benzodiazepines (Xanax, Valium), sleep aids (Ambien)
+- Schedule V: Low-dose codeine preparations
+
+3.2 SPECIAL REQUIREMENTS FOR CONTROLLED SUBSTANCE REFILLS
+- Schedule II medications CANNOT be refilled; a new prescription is required for every supply.
+- Schedule III–V medications may be refilled, but:
+  - A maximum of 5 refills in 6 months (varies by state/country)
+  - No early refills (must be within the last 5–7 days of current supply)
+  - Regular in-person monitoring visits may be required (every 30–90 days depending on medication)
+  - Urine drug screening (UDS) may be required as part of the monitoring program
+
+3.3 PAIN MANAGEMENT AGREEMENT
+Patients prescribed Schedule II or III opioids must sign a Pain Management Agreement that outlines:
+- Commitment to use medication as prescribed
+- Agreement to random drug testing
+- Prohibition on obtaining controlled substances from multiple providers (doctor shopping)
+- Understanding that lost or stolen medications will not be replaced early
+- Consequences of policy violations including discontinuation of controlled substance therapy
+
+3.4 PRESCRIPTION DRUG MONITORING PROGRAM (PDMP)
+- Physicians are required to check the PDMP before prescribing or refilling controlled substances.
+- Patients who appear to be obtaining controlled substances from multiple providers may be flagged and investigated.
+- The PDMP may be accessible by law enforcement under court order.
+
+=============================================================
+SECTION 4: DENIED REFILLS AND EXCEPTIONS
+=============================================================
+
+4.1 REASONS A REFILL MAY BE DENIED
+A refill request may be denied if:
+- The patient has not been seen by the prescribing physician within the last 12 months
+- Required lab work or monitoring (e.g., INR for warfarin, A1C for diabetes medications) is overdue
+- The requested refill is too early based on the dispensed date
+- The medication has been discontinued by the physician
+- Concerns about medication misuse or diversion are documented
+
+4.2 EMERGENCY MEDICATION SUPPLY
+If a patient runs out of critical medication (e.g., insulin, heart medications, seizure medications) while awaiting a refill:
+- Contact the prescribing office immediately
+- An emergency 3–7 day supply may be authorized in urgent situations
+- Pharmacies may dispense an emergency supply for life-sustaining medications pending physician review (subject to state/country regulations)
+
+4.3 VACATION OVERRIDE
+If you will be traveling, you may request an early refill (vacation override) for maintenance medications. Requests require:
+- Documentation of travel dates
+- Advance notice of at least 5 business days
+- Insurance may require prior authorization for early refills
+- Only one vacation override per 12-month period is typically permitted per medication
+
+=============================================================
+SECTION 5: SPECIALTY MEDICATIONS
+=============================================================
+
+5.1 SPECIALTY PHARMACY MEDICATIONS
+Specialty medications (biologics, injectables, infusions) are typically dispensed through a specialty pharmacy, not a retail pharmacy. Patients receiving specialty medications must:
+- Enroll in the specialty pharmacy program through their insurance or our facility
+- Coordinate with our specialty pharmacy team for refills (often monthly)
+- Complete any required pre-authorization or step therapy documentation
+
+5.2 BIOSIMILARS
+When a biosimilar equivalent is available, it may be substituted for the brand-name biologic unless the physician specifies "Dispense as Written" (DAW). Patients are encouraged to discuss biosimilar options with their physician.
+
+=============================================================
+SECTION 6: MEDICATIONS THAT REQUIRE MONITORING BEFORE REFILL
+=============================================================
+
+The following medications require up-to-date lab results before refill will be authorized:
+
+| Medication Class | Required Monitoring | Frequency |
+|---|---|---|
+| Warfarin (blood thinner) | INR (PT/INR) | Every 4–6 weeks |
+| Metformin (diabetes) | Kidney function (eGFR) | Every 6–12 months |
+| Statins (cholesterol) | Liver function tests (LFT) | Annually or per physician |
+| ACE inhibitors | Kidney function, potassium | Every 6–12 months |
+| Lithium (bipolar) | Lithium levels, kidney, thyroid | Every 3–6 months |
+| Methotrexate (autoimmune) | CBC, liver function | Every 4–8 weeks |
+| Isotretinoin (acne) | Pregnancy test (females) | Monthly (iPLEDGE program) |
+| Thyroid medications | TSH | Every 6–12 months |
+
+Note: This medication refill policy is a synthetic document created for demonstration purposes only. It does not constitute actual medical or pharmaceutical advice.

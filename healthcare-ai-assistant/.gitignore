@@ -1,0 +1,26 @@
+# Environments
+.env
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Database
+backend/vector_store/
+
+# Node
+node_modules/
+dist/
+build/
+npm-debug.log*
+.npm/
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

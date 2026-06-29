@@ -1,0 +1,131 @@
+INSURANCE ELIGIBILITY — FREQUENTLY ASKED QUESTIONS (FAQ)
+Healthcare AI Assistant Knowledge Base — Synthetic Document
+Version: 2.4 | Last Updated: January 2025
+
+=============================================================
+SECTION 1: UNDERSTANDING INSURANCE ELIGIBILITY
+=============================================================
+
+Q1: What does "insurance eligibility" mean?
+A: Insurance eligibility refers to whether you are currently enrolled in a health insurance plan and whether your plan covers a specific healthcare service or provider. Before scheduling services, our billing department verifies your eligibility with your insurance company to confirm coverage.
+
+Q2: How do I know if I am eligible for coverage?
+A: You can verify your eligibility by:
+- Calling the Member Services number on the back of your insurance card
+- Logging into your insurer's online portal or app
+- Contacting our billing department, which will verify your eligibility before your appointment
+- Requesting a Benefits Verification letter from your insurer
+
+Q3: When is my eligibility verified?
+A: Our staff verifies insurance eligibility:
+- Before your first appointment with a new provider
+- Before any scheduled procedure or surgery
+- At the beginning of each calendar year when benefits reset
+- If you report a change in your insurance coverage
+
+=============================================================
+SECTION 2: COVERAGE QUESTIONS
+=============================================================
+
+Q4: What services are typically covered by insurance?
+A: Covered services vary by plan, but commonly include:
+- Preventive care (annual physicals, vaccinations, cancer screenings) — often covered at 100%
+- Primary care visits — subject to copay or deductible
+- Specialist visits — usually require a copay; may require prior authorization
+- Emergency room visits — covered but may have a higher cost-share
+- Inpatient hospitalization — covered after deductible
+- Prescription medications — covered per the plan's formulary tier
+- Lab tests and imaging — usually covered; some may require prior authorization
+- Mental health services — covered under parity laws in most plans
+- Telehealth services — increasingly covered; check your plan for details
+
+Q5: What is a deductible?
+A: A deductible is the amount you pay out-of-pocket for covered services before your insurance begins to pay. For example, if your deductible is ₹10,000 and you receive a service costing ₹15,000, you pay ₹10,000 and your insurance covers the rest (minus any copay or coinsurance). Preventive services are typically exempt from the deductible.
+
+Q6: What is a copay versus coinsurance?
+A: 
+- Copay: A fixed amount you pay for a covered service (e.g., ₹500 for a primary care visit).
+- Coinsurance: A percentage you pay after meeting your deductible (e.g., you pay 20%, insurance pays 80%).
+
+Q7: What is an out-of-pocket maximum?
+A: The out-of-pocket maximum is the most you will have to pay for covered services in a plan year. After you reach this limit, your insurance pays 100% of covered services for the rest of the year.
+
+=============================================================
+SECTION 3: IN-NETWORK VS OUT-OF-NETWORK
+=============================================================
+
+Q8: What does "in-network" mean?
+A: In-network providers have a contract with your insurance company and have agreed to negotiated rates. Seeing an in-network provider typically results in lower out-of-pocket costs for you.
+
+Q9: What happens if I see an out-of-network provider?
+A: If you see an out-of-network provider, your insurance may cover a smaller portion of the cost, or none at all, depending on your plan type:
+- HMO (Health Maintenance Organization): Generally no coverage for out-of-network care except emergencies.
+- PPO (Preferred Provider Organization): Partial coverage for out-of-network; higher cost-share.
+- EPO (Exclusive Provider Organization): No out-of-network coverage except emergencies.
+
+Q10: How do I verify if a provider is in-network?
+A: You can verify in-network status by:
+- Using the "Find a Doctor" tool on your insurer's website
+- Calling Member Services on your insurance card
+- Asking our billing department to verify before your visit
+
+=============================================================
+SECTION 4: PRIOR AUTHORIZATION
+=============================================================
+
+Q11: What is prior authorization (PA)?
+A: Prior authorization (also called pre-authorization or pre-certification) is approval from your insurance company before you receive certain services, medications, or procedures. Without PA for services that require it, your insurance may deny coverage.
+
+Q12: Which services commonly require prior authorization?
+A: Services that typically require prior authorization include:
+- Non-emergency surgeries and procedures
+- Advanced imaging (MRI, CT scans, PET scans)
+- Specialty medications (biologics, brand-name drugs on higher tiers)
+- Inpatient hospital admissions (except emergency)
+- Durable medical equipment
+- Home health services
+- Some specialist referrals (in HMO plans)
+
+Q13: Who is responsible for obtaining prior authorization?
+A: The responsibility can vary:
+- Your physician's office typically submits the request for procedures and medications.
+- For referrals in an HMO, your primary care physician submits the referral.
+- You are responsible for confirming that PA was obtained before the service.
+
+=============================================================
+SECTION 5: CLAIMS AND BILLING
+=============================================================
+
+Q14: What is an EOB (Explanation of Benefits)?
+A: An EOB is a statement from your insurance company that explains how a claim was processed. It shows:
+- The total amount billed
+- The amount the insurance paid
+- The amount you owe
+- The reason for any denied charges
+
+Q15: What should I do if my claim is denied?
+A: If your claim is denied:
+1. Review the denial reason on the EOB.
+2. Contact your insurance company to understand the denial.
+3. Request an appeal in writing within the timeframe specified (usually 60–180 days).
+4. Ask your physician's office to submit a letter of medical necessity if applicable.
+5. Contact our billing department for assistance — we often help patients navigate appeals.
+
+Q16: Can I get a cost estimate before receiving care?
+A: Yes. Our billing department can provide a Good Faith Estimate (GFE) for scheduled services. This estimate is based on the expected services, your insurance benefits, and historical pricing. Actual charges may vary.
+
+=============================================================
+SECTION 6: SPECIAL CIRCUMSTANCES
+=============================================================
+
+Q17: What if I lose my insurance coverage?
+A: If you lose coverage, you may qualify for:
+- COBRA continuation coverage (for employer-sponsored plans; 18 months of continued coverage at full premium cost)
+- Special Enrollment Period on the Marketplace (60 days from loss of coverage)
+- Medicaid or government-sponsored programs if you meet income requirements
+- Our facility's financial assistance program for uninsured or underinsured patients
+
+Q18: Do you offer financial assistance for uninsured patients?
+A: Yes. Our facility offers a charity care program and sliding-scale fee assistance based on income. Please contact our financial counseling department to apply.
+
+Note: This FAQ is a synthetic document created for demonstration purposes only. It does not constitute actual insurance or legal advice.
